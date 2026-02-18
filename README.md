@@ -57,10 +57,6 @@ project-folder/
 ├── contact.html
 ├── css/
 │   └── style.css
-├── screenshots/
-│   ├── home.png
-│   ├── contact.png
-│   └── about.png
 └── README.md
 ```
 
