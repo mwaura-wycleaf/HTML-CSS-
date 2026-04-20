@@ -1,4 +1,4 @@
-# 🌐 Branding Website – Contact Page Project
+# 🌐 Branding Website
 
 A modern, responsive branding/agency website built using **HTML5, CSS3, and JavaScript**, featuring a structured Contact page with a clean form layout and professional UI design.
 
