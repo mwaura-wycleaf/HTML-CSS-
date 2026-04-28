@@ -57,25 +57,7 @@ project-folder/
 ├── contact.html
 ├── css/
 │   └── style.css
-└── README.md
-```
-
----
-
-## 📸 Screenshots
-
-> Screenshots will be added soon.
-
-### 🏠 Home Page
-![Home Page Screenshot](./screenshots/home.png)
-
-### 📬 Contact Page
-![Contact Page Screenshot](./screenshots/contact.png)
-
-### ℹ️ About Page
-![About Page Screenshot](./screenshots/about.png)
-
----
+└── README 
 
 ## 🎯 Key Features
 
